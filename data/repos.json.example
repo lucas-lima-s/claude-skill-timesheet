@@ -1,0 +1,11 @@
+{
+  "repos": [
+    "~/work/api-service",
+    "~/work/web-client",
+    "~/work/infra-tools"
+  ],
+  "ticket_pattern": "[A-Z][A-Z0-9]+-[0-9]+",
+  "author": null,
+  "day_cap_hours": 8,
+  "break_gap_hours": 2
+}
